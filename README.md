@@ -1,2 +1,2 @@
-# ARTribution
-A detection model that determines whether an artwork is human-made or AI-generated, and classifies it according to the generative model or specific AI art generator used.
+# ML Porject
+A multi-level classification framework leveraging ResNet-101 to detect and identify AI-generated art across various GAN and diffusion-based generative models.
